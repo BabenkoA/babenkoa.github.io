@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> AKKC</title>
+        <meta http-equiv="content-type" charset="utf-8">
+        <meta name="description" content="Описание веб страницы ">
+        <meta name="author" content="Andrii">
+        <meta name="keywords" content="kafe, game">
+        <meta name="robots" content="index,follow">
+        <meta http-equiv="refresh" content="30;url=file:///E:/Documents/HTML/index.html"> 
+    </head>
+    <body background="E:\Documents\HTML\2.jpg"> 
+        <h1><p align="center"><em>Anti kafe kafe club</em><br><hr size="5" color="blue" noshade></h1>
+        <p align="center">
+            <img src="E:\Documents\HTML\logo.png" alt="Bueaty" height="450" width="">
+        </p>
+        <!--E:\Documents\HTML\logo.png" alt="Yep" height="100%" width="500"-->
+        <h2><p align="center"><i> Hallo </i><br></p></h2>
+        <p align="center"><b>We are waiting for you</b><br>
+        <big><sub>All</sub> for <sup>you</sup></big><br>
+        <strong>Everyday</strong><br>
+        <sub>Only kafe and game</sub><br> 
+        <del>But you must come on</del>
+            <script>
+               // alert("Я взял твою")
+                console.log("I love Ice Cream")
+            </script>
+             <p align="center">
+            <img src="file:///E:/Documents/HTML/a393a1d9568ee85c312075970b58533d.gif" alt="Yep" border="5" align="botom" hspace="550" vspace="10">
+                 Born in Rockford, Illinois to Ghanaian parents, he graduated from the University of Wisconsin–Madison in 2002 and the Illinois Institute of Technology in 2006, with degrees in civil engineering and architecture, respectively. He entered the world of fashion with an internship at Fendi in 2009 alongside rapper Kanye West. The two began an artistic collaboration that would launch Abloh's career into founding Off-White. Time magazine named him one of the 100 most influential people in the world in 2018.
+        </p>
+        <ul type="square"> <li>Best music</li>
+            <li>Funny games</li>
+            <li>Rare item</li>
+        </ul>
+        <ol start="13">
+            <li>You can be our bro</li>
+            <li value="69">Best Player</li>
+            <li>Fashion Beach</li>
+            
+        </ol>
+        
+        <p><a target="_blank" href="https://codeforces.com/problemset/problem/1/A"> First out </a>
+        </p>
+        <p align="center">
+        <a target="_blank" href="https://ru.aliexpress.com/item/Colormix-CL-24-22-inch-Skate-Board-Single-Rocker-Men-Fashion-Graffiti-Maple-Leaf-Retro-Skateboard/32693521609.html"><img src="giphy.gif" alt="Skate"></a>
+        </p>
+        <p>
+        <a target="_blank" href="Page1.html"><strong><i>next page</i></strong>
+            </a></p>
+        <!-- Lil pump -->
+            <dl>    
+                <dt> Порядок визначника  </dt>
+                <dd> Символи ij a називають елементами визначника, причому перший індекс і вказує номер рядка, а другий індекс j — номер стовпця, на перетині яких міститься елемент ij </dd>
+                <dt>Основні властивості визначників </dt>
+                <dd>Сформулюємо найважливіші властивості визначників на прикладі визначників третього порядку. У правильності цих властивостей можна переконатися, наприклад, безпосередньою перевіркою. Усі властивості правильні також і для визначників довільного порядку. </dd>
+        </dl>
+             
+    </body>
+</html>
